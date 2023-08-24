@@ -16,7 +16,7 @@
     "@babel/node": "^7.12.10",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
     "@babel/plugin-proposal-decorators": "^7.12.12",
-    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-env": "^7.22.10",
     "@babel/preset-typescript": "^7.12.7",
     "@types/bcryptjs": "^2.4.2",
     "@types/cors": "^2.8.8",
